@@ -29,20 +29,20 @@ skills:
 
 #Work experience is required
 roles:
- - title: Chief Technology Officer
-   start: 2016 Jan
-   end: Ongoing
-   employer: ICT Health Technology Services Pvt. Ltd.
+ - title:Chief Technology Officer
+   start:2016 Jan
+   end:Ongoing
+   employer:ICT Health Technology Services Pvt. Ltd.
    description:
-  - title: General Manager - Software Engineering
-   start: 2015 June
-   end: 2015 Dec
-   employer: ICT Health Technology Services Pvt. Ltd.
+  - title:General Manager - Software Engineering
+   start:2015 June
+   end:2015 Dec
+   employer:ICT Health Technology Services Pvt. Ltd.
    description:
-  - title: Head - Software Development
-   start: 2010 Mar
-   end: 2015 May
-   employer: ICT Health Technology Services Pvt. Ltd.
+  - title:Head - Software Development
+   start:2010 Mar
+   end:2015 May
+   employer:ICT Health Technology Services Pvt. Ltd.
    description:  
 
 #Education is required
