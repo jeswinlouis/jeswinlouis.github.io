@@ -49,10 +49,9 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Master of Computer Application (MCA)
+   date: 2000
+   school: Bangalore University
 
 #This section is optional (as is the image link below)
 coursera:
