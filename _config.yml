@@ -29,21 +29,21 @@ skills:
 
 #Work experience is required
 roles:
- - title:Chief Technology Officer
-   start:2016 Jan
-   end:Ongoing
-   employer:ICT Health Technology Services Pvt. Ltd.
-   description:Hinai
-  - title:General Manager - Software Engineering
-   start:2015 June
-   end:2015 Dec
-   employer:ICT Health Technology Services Pvt. Ltd.
-   description:Hinai
-  - title:Head - Software Development
-   start:2010 Mar
-   end:2015 May
-   employer:ICT Health Technology Services Pvt. Ltd.
-   description:Hinai
+ - title: Chief Technology Officer
+   start: 2016 Jan
+   end: Ongoing
+   employer: ICT Health Technology Services Pvt. Ltd.
+   description: Hinai
+  - title: General Manager - Software Engineering
+   start: 2015 June
+   end: 2015 Dec
+   employer: ICT Health Technology Services Pvt. Ltd.
+   description: Hinai
+  - title: Head - Software Development
+   start: 2010 Mar
+   end: 2015 May
+   employer: ICT Health Technology Services Pvt. Ltd.
+   description: Hinai
 
 #Education is required
 education:
@@ -53,6 +53,21 @@ education:
  - level: Bachelor of Science (B.Sc Computer Science)
    date: 1997
    school: Bharathiar University
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - 
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/258813/rhinds
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+
+#Mobile apps section is optional
+apps:
+ - name: Chuck the Quiz
+   platform: Android
+   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
+   description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
